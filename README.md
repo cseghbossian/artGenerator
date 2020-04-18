@@ -1,10 +1,10 @@
 # artGenerator
 
 The objective of this project is to make some cool pictures while learning about recursive datatypes in Haskell.
-To do so, we devise a
-grammar for a certain class of expressions, design a Haskell
-datatype whose values correspond to such expressions, write
-code to evaluate the expressions, and then write a function
+To do so, I devised a
+grammar for a class of expressions, designed a Haskell
+datatype whose values correspond to such expressions, wrote
+code to evaluate the expressions, and then created a function
 that randomly generates such expressions and plots them. Thus,
 producing random psychedelic art.
 
