@@ -1,6 +1,6 @@
 # artGenerator
 
-The objective of this project is to make some cool pictures while learning about recursive datatypes in Haskell.
+The objective of this project was to make some cool pictures while learning about recursive datatypes in Haskell.
 To do so, I devised a
 grammar for a class of expressions, designed a Haskell
 datatype whose values correspond to such expressions, wrote
